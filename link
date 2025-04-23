@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guiart Mídias Aéreas</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-color: #0a1a2f; /* azul escuro */
+      color: white;
+      text-align: center;
+    }
+    .container {
+      padding: 20px;
+      max-width: 500px;
+      margin: 0 auto;
+    }
+    .logo {
+      max-width: 200px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 30px;
+    }
+    .link {
+      display: block;
+      background-color: #1e3a5f;
+      color: white;
+      text-decoration: none;
+      padding: 15px;
+      margin: 10px 0;
+      border-radius: 10px;
+      font-size: 18px;
+      transition: background-color 0.3s ease;
+    }
+    .link:hover {
+      background-color: #29507a;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="Guiart.png" alt="Logo Guiart Mídias Aéreas" class="logo">
+    <h1>Guiart Mídias Aéreas</h1>
+    <a href="https://www.youtube.com/@GuiartM%C3%ADdiasA%C3%A9reas" class="link" target="_blank">YouTube</a>
+    <a href="https://wa.me/5549991494690" class="link" target="_blank">WhatsApp</a>
+  </div>
+</body>
+</html>
